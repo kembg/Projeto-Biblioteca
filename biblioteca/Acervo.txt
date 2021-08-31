@@ -1,0 +1,43 @@
+minha vida de menina;1942;companhia das letras;helena morley;biografia;1
+bases matematicas;2017;editora federal do abc;armando caputi e daniel miranda;cientifico;1
+1984;1949;editora aleph;george orwell;ficcao cientifica;1
+a revolucao dos bichos;1964;editora aleph;george orwell;romance;1
+dom quixote de la mancha;1605;editor francisco de robles;miguel de cervantes;romance;1
+o pequeno principe;1943;editora editions gallimard;antoine de sant-exupery;literatura infantil;1
+memorias postumas de bras cubas;1881;editora tipografia nacional;machado de assis;humor;0
+o mundo segundo felipe neto;2019;editora pixel;felipe neto;ficcao juvenil;1
+nao faz sentido!: por tras da camera;2013;editora casa da palavra;felipe neto;autobiografia;1
+Monica and friends;2019;editora panini;mauricio de souza;infatil;1
+harry potter e a camara secreta;2017;editora rocco;j. k. rowling;ficcao;1
+o ladrao de raios – capa nova;2014;editora intrinseca;rick riordan;ficcao infantil;1
+os segredos da mente milionaria;1992;editora sextante;t. harv eker;motivacional;1
+a bailarina de auschwitz;2019;editora sextante;edith eva eger;desenvolvimento pessoal;1
+pai rico, pai pobre;2017;editora alta books;robert t. kiyosaki;financas;1
+por que fazemos isso?;2016;editora planeta;mario sergio cortella;filosofia;1
+o jeito warren buffett de investir;2019;editora benvira;robert g. hagstrom;administracao;1
+os irmãos karamazov;1880;editora 34;fiódor dostoiévski;romance;1
+crime e castigo;1866;editora 34;fiódor dostoiévski;romance;1
+madame bovary;1856;editora itatiaia;gustave flaubert;romance;1
+divina comédia;1472;editora 34;dante alighieri;poesia épica;1
+as aventuras de huckleberry finn;1884;editora principis;mark twain;romance;1
+alice no país das maravilhas;1865;editora lafonte;lewis carroll;fantasia;1
+orgulho e preconceito;1812;editora martin claret;jane austen;romance;1
+o morro dos ventos uivante;1847;editora  martin claret;emily brontë;romance;1
+o conto da aia;1985;editora rocco;margaret atwood;ficção;1
+frankenstein;1823;editora principis;mary shelley;ficção;1
+a metamorfose;1915;editora principis;franz kafka;contos;1
+homem invisível;1952;editora Zahar;ralph ellison;ficção;1
+grandes esperanças;1861;martin claret;charles dickens;ficção;1
+as viagens de gulliver;1726;editora martin claret;jonathan swift;sátira;1
+harry potter e a pedra filosofal;1997;editora racco;j. k. rowling;aventura;1
+harry potter e o prisioneiro de azkaban;1999;editora racco;j. k. rowling;aventura;1
+harry potter e o cálice de fogo;2000;editora racco;j. k. rowling;aventura;1
+harry potter e a ordem da fênix;2003; editora racco;j. k. rowling;aventura;1
+harry potter e o enigma do príncipe;2005;editora racco;j. k. rowling;aventura;1
+harry potter e as relíquias da morte;2007;editora racco;j. k. rowling;aventura;1
+harry potter e a criança Amaldiçoada;2016;editora racco;j. k. rowling;aventura;1
+depois daquela viagem: diário de bordo de uma jovem que aprendeu a viver com aids;1997;editora ática;valeria polizzi;biografia;1
+amar-se - uma viagem em busca de si mesmo;2021;editora atitude;marcos lacerda;auto ajuda;1
+a menina que roubava livros;2007;intenseca;markus zusak;drama;1
+cinderela;2001;disney;lucas santos;infantil;1
+pocahontas;2001;disney;lucas santos;infantil;1
